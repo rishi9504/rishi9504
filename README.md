@@ -1,4 +1,5 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
 I'm Hrishikesh Kumar. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 
 ---
