@@ -2,6 +2,9 @@
 
 I'm Hrishikesh Kumar. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 
+<a href="https://www.buymeacoffee.com/hrishikeshx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ---
 ### ⚡️ A quick introduction
  - 🔭 I’m currently working with Gartner.
