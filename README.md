@@ -2,8 +2,28 @@
 
 I'm Hrishikesh Kumar. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 
-<a href="https://www.buymeacoffee.com/hrishikeshx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/hrishikesh-kumar/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  
+ <a href="https://www.buymeacoffee.com/hrishikeshx" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="174">
+ </a>&nbsp;&nbsp;
+  
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rishi9504&show_icons=true&count_private=true&theme=dark" width="350"></a>
+
+</p>
 
 ---
 ### ⚡️ A quick introduction
