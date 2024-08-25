@@ -19,7 +19,10 @@ I'm Hrishikesh Kumar. I work as a software engineer during the day. At night, I 
   
   
 </p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rishi9504&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
+</p>
 
 
 ---
